@@ -1,3 +1,4 @@
+import "./style.css"
 
 let initialCards = [];
 const form = document.forms.new;
